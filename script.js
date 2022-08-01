@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
     document.querySelector('h1').style.marginLeft='10%';
   }
   else{
-    document.querySelector('h1').innerHTML = "⚔️ Draw! ⚔️"
+    document.querySelector('h1').innerHTML = "⚔️ Draw!"
   }
 });
 
