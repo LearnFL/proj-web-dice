@@ -4,6 +4,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
   var path1 ='./images/dice'+choice1+'.png';
   var choice2 = Math.floor((Math.random() * 6)+1);
   var path2 ='./images/dice'+choice2+'.png';
+  var dice = new Audio('./audio/dice.mov');
+  dice.play();
   document.querySelector(".img1").setAttribute("src", path1);
   document.querySelector(".img2").setAttribute("src", path2);
   if (choice1 > choice2) {
