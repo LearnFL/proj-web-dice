@@ -9,7 +9,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
   if (choice1 > choice2) {
     document.querySelector('h1').innerHTML = "🚩 Player 1 Wins!"
   }else if (choice2 > choice1) {
-    document.querySelector('h1').innerHTML = "  Player 2 Wins! 🚩"
+    document.querySelector('h1').innerHTML = "Player 2 Wins! 🚩"
+    document.querySelector('h1').style.marginLeft='10%';
   }
   else{
     document.querySelector('h1').innerHTML = "⚔️ Draw! ⚔️"
