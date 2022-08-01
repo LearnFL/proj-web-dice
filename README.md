@@ -3,7 +3,7 @@
 ### Description
 Every time you reload a page it will randomly change dice count telling you who won.
 
-### [Challenged by London App Brewery](https://appbrewery.com)
+### [Challenged by The App Brewery](https://appbrewery.com)
 ### Coded by Dennis Rotnov
 
 ### [Please see a live page.](d)
