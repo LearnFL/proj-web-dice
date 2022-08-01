@@ -1,4 +1,4 @@
-# Very simple page with a little bit of JS.
+# Very simple page with a little bit of JS
 
 ### Description
 Every time you reload a page it will randomly change dice count telling you who won.
