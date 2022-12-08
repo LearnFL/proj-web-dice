@@ -4,6 +4,7 @@
 Every time you reload a page it will randomly change dice count telling you who won.
 
 ### [Challenged by The App Brewery](https://appbrewery.com)
+### Copyright by London App Brewery.
 ### Coded by Dennis Rotnov
 
 ### [Please see a live page.](https://learnfl.github.io/proj-web-dice/)
